@@ -10,3 +10,11 @@
 
 - node version `^v12.0.0`
 - Install Node.js and npm, we will use npm to install dependencies
+
+### How to Getting Started:
+
+```sh
+$ git clone "url this project"
+$ cd cypress-research
+$ npm install
+```
