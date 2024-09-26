@@ -4,7 +4,7 @@
 
 > Cypress is a modern end-to-end testing framework designed for web applications. It provides a robust environment for writing and executing tests, with a focus on making it easy to set up, write, and maintain tests for web applications. https://www.cypress.io/
 
-> Cucumber is a software tool used by computer programmers that supports behavior-driven development (BDD). Central to the Cucumber BDD approach is its plain language parser called Gherkin. https://cucumber.io/
+> Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases
 
 ### Prerequisites:
 
