@@ -1,6 +1,6 @@
 #  Boilerplate WEBUI Automation Testing
 
-![cypress_cucumber_logo](https://github.com/user-attachments/assets/46ab1aa9-27f5-4dc7-bddd-ee5b98b82a5d)
+![1679031994000](https://github.com/user-attachments/assets/68da538a-9e45-4e7e-80f8-7e03f94b4b91)
 
 > Cypress is a modern end-to-end testing framework designed for web applications. It provides a robust environment for writing and executing tests, with a focus on making it easy to set up, write, and maintain tests for web applications. https://www.cypress.io/
 
@@ -15,6 +15,6 @@
 
 ```sh
 $ git clone "url this project"
-$ cd cypress-research
+$ cd cypress-mocha-research
 $ npm install
 ```
